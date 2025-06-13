@@ -1,6 +1,3 @@
 {
-  "theme": "obsidian",
-  "showViewHeader": false,
-  "showRibbon": true,
-  "nativeMenus": false
+  "theme": "obsidian"
 }

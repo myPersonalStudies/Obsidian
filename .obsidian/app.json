@@ -3,5 +3,7 @@
   "spellcheck": false,
   "showLineNumber": false,
   "readableLineLength": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false,
+  "promptDelete": false
 }
