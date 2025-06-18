@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "cf99159a790f2121",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "bc23fbd463a8fb51",
             "type": "leaf",
             "state": {
@@ -73,7 +83,8 @@
               "title": "Ciclo de vida de um produto"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,15 +255,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75aff8ef76eea76c",
+  "active": "cf99159a790f2121",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Design/Google UX/Google UX.md",
-    "Design/Google UX/Recursos.md",
     "Design/Google UX/Design Thinking.md",
-    "Design/Google UX/Ciclo de vida de um produto.md",
+    "Design/Google UX/Mapa de Empatia.md",
+    "Design/Google UX/Recursos.md",
     "Design/Google UX/Carreiras.md",
     "Design/Google UX/Características da boa experiência do usuário.md",
+    "Untitled.canvas",
+    "Design/Google UX/Ciclo de vida de um produto.md",
     "202505241534.md",
     "2025-05-24.md",
     "2025-05-22.md",
